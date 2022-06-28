@@ -13,3 +13,4 @@ servo Motor (for loop):https://wokwi.com/projects/334979679252382290<br>
 11th exp:Ultrasonic sensor with buzzer: https://wokwi.com/projects/335073425483629139<br>
 12th exp:Ultrasonis sensor,buzzer with led:https://wokwi.com/projects/335612307321127508<br>
 13th exp:Buzzer with LED and Pushbutton:https://wokwi.com/projects/335699245817397844<br>
+14th exp:Potentiometer with LED:https://wokwi.com/projects/335703563856511572
