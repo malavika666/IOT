@@ -3,7 +3,7 @@
 2nd exp:3 LED:https://wokwi.com/projects/334909797910446674<br>
 3rd exp:RGB: https://wokwi.com/projects/33497253980248533<br>
 4th exp: LCD:https://wokwi.com/projects/334973183140561490<br>
-5th exp:SERVO: https://wokwi.com/projects/334977644162450004:<br>website:( https://www.instructables.com/Arduino-Servo-Motors/)<br>
+5th exp:SERVO: https://wokwi.com/projects/334977644162450004<br>website:( https://www.instructables.com/Arduino-Servo-Motors/)<br>
 servo Motor (for loop):https://wokwi.com/projects/334979679252382290<br>
 6th exp:servomotor using sliding potentiometer: https://wokwi.com/projects/334981596299919955<br>
 7th exp:Servomotor using Pushbutton:https://wokwi.com/projects/335700050397102675<br>
