@@ -15,7 +15,8 @@ Ultrasonis sensor,buzzer with led:https://wokwi.com/projects/335612307321127508<
 Buzzer with LED and Pushbutton :  https://wokwi.com/projects/335699245817397844<br>
 Potentiometer with LED:           https://wokwi.com/projects/335703563856511572
 <br>
-DHT22(humidity and temperature sensor):https://wokwi.com/projects/337602706761843283
+DHT22(humidity and temperature sensor):https://wokwi.com/projects/337602706761843283<br>
+DHT22(humidity and temperature sensor)+LCD:https://wokwi.com/projects/337605674947052115
 
    
 ESP32:<br>
