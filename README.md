@@ -41,31 +41,31 @@ https://wokwi.com/projects/336966836274856532<br>
 https://wokwi.com/projects/336968045044957778<br>
 
 DHT11:
-        #include <Adafruit_Sensor.h>
-        #include <DHT.h>;
-        #define DHTPIN D7    // what pin we're connected to
-        #define DHTTYPE DHT11   // DHT 22  (AM2302)
-        DHT dht(DHTPIN, DHTTYPE); //// Initialize DHT sensor for normal 16mhz Arduino
-       //Variables
+        #include <Adafruit_Sensor.h><br>
+        #include <DHT.h>;<br>
+        #define DHTPIN D7    // what pin we're connected to<br>
+        #define DHTTYPE DHT11   // DHT 22  (AM2302)<br>
+        DHT dht(DHTPIN, DHTTYPE); //// Initialize DHT sensor for normal 16mhz Arduino<br>
+       //Variables<br>
        int chk;
-       float hum;  //Stores humidity value
-       float temp; //Stores temperature value
-       void setup()
-       {
-       Serial.begin(9600);
-       dht.begin();
-       }
-      void loop()
-     {
-       delay(2000);
-       //Read data and store it to variables hum and temp
-       hum = dht.readHumidity();
-       temp= dht.readTemperature();
-       //Print temp and humidity values to serial monitor
-       Serial.print("Humidity: ");
-       Serial.print(hum);
-       Serial.print(" %, Temp: ");
-       Serial.print(temp);
-       Serial.println(" Celsius");
-       delay(1000); //Delay 2 sec.
-   }
+       float hum;  //Stores humidity value<br>
+       float temp; //Stores temperature value<br>
+       void setup()<br>
+       {<br>
+       Serial.begin(9600);<br>
+       dht.begin();<br>
+       }<br>
+      void loop()<br>
+     {<br>
+       delay(2000);<br>
+       //Read data and store it to variables hum and temp<br>
+       hum = dht.readHumidity();<br>
+       temp= dht.readTemperature();<br>
+       //Print temp and humidity values to serial monitor<br>
+       Serial.print("Humidity: ");<br>
+       Serial.print(hum);<br>
+       Serial.print(" %, Temp: ");<br>
+       Serial.print(temp);<br>
+       Serial.println(" Celsius");<br>
+       delay(1000); //Delay 2 sec.<br>
+   }<br>
