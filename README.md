@@ -69,3 +69,4 @@ DHT11:
        Serial.println(" Celsius");<br>
        delay(1000); //Delay 2 sec.<br>
    }<br>
+https://randomnerdtutorials.com/esp8266-nodemcu-hc-sr04-ultrasonic-arduino/<br>
