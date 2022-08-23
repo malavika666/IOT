@@ -34,6 +34,8 @@ DHT22(humidity and temperature sensor):<br>
 https://wokwi.com/projects/337602706761843283<br>
 DHT22(humidity and temperature sensor)+LCD:<br>
 https://wokwi.com/projects/337605674947052115
+LED CHASER:<br>
+https://wokwi.com/projects/340774447162065491<br>
 
    
 ESP32:<br>
