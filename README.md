@@ -37,6 +37,31 @@ https://wokwi.com/projects/337605674947052115
 LED CHASER:<br>
 https://wokwi.com/projects/340774447162065491<br>
 
+ LDR_LED< br>
+
+ int ldr=A0;//Set A0(Analog Input) for LDR.< br>
+ int value=0;< br>
+ int led=D1;< br>
+ void setup() {< br>
+ Serial.begin(9600);< br>
+ pinMode(led,OUTPUT);< br>
+ }< br>
+
+ void loop() {< br>
+ value=analogRead(ldr);//Reads the Value of LDR(light).< br>
+ Serial.println("LDR value is :");//Prints the value of LDR to Serial Monitor.< br>
+ Serial.println(value);< br>
+ if(value<50)< br>
+   {
+     digitalWrite(led,HIGH);//Makes the LED glow in Dark.< br>
+   }< br>
+   else< br>
+   {< br>
+     digitalWrite(led,LOW);//Turns the LED OFF in Light.< br>
+   }< br>
+   delay(1000);< br>
+ }\< br>
+
    
 ESP32:<br>
 https://wokwi.com/projects/336966836274856532<br>
