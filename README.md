@@ -40,6 +40,8 @@ LDR:<br>
 https://wokwi.com/projects/340776924078932564<br>
 LDR+LED:<br>
 https://wokwi.com/projects/340780293574099539<br>
+IR+LED:<br>
+https://wokwi.com/projects/340780454732890706<br>
 
  LDR_LED< br>
 
