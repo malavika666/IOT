@@ -50,6 +50,9 @@ https://wokwi.com/projects/340882948429447764
 3 LED:
 https://wokwi.com/projects/340883307366449747
 
+RGB LED
+https://wokwi.com/projects/340883668203471443
+
  LDR_LED< br>
 
  int ldr=A0;//Set A0(Analog Input) for LDR.< br>
