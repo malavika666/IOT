@@ -43,6 +43,10 @@ https://wokwi.com/projects/340780293574099539<br>
 IR+LED:<br>
 https://wokwi.com/projects/340780454732890706<br>
 
+ESP32:
+LED
+https://wokwi.com/projects/340882948429447764
+
  LDR_LED< br>
 
  int ldr=A0;//Set A0(Analog Input) for LDR.< br>
