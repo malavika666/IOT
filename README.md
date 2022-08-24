@@ -56,6 +56,9 @@ https://wokwi.com/projects/340883668203471443
 LCD:
 https://wokwi.com/projects/340883919581741650
 
+Servomotor+Pushbutton:
+https://wokwi.com/projects/340884422706332242
+
  LDR_LED< br>
 
  int ldr=A0;//Set A0(Analog Input) for LDR.< br>
