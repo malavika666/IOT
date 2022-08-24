@@ -65,6 +65,9 @@ https://wokwi.com/projects/340885196981142100
 Buzzer+PushButton:
 https://wokwi.com/projects/340885865271132754
 
+Ultrasonicsensor+Buzzer:
+https://wokwi.com/projects/340887871916343891
+
  LDR_LED< br>
 
  int ldr=A0;//Set A0(Analog Input) for LDR.< br>
