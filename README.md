@@ -44,6 +44,7 @@ IR+LED:<br>
 https://wokwi.com/projects/340780454732890706<br>
 
 ESP32:
+
 LED
 https://wokwi.com/projects/340882948429447764
 
@@ -67,6 +68,9 @@ https://wokwi.com/projects/340885865271132754
 
 Ultrasonicsensor+Buzzer:
 https://wokwi.com/projects/340887871916343891
+
+Potentiometer+LED:
+https://wokwi.com/projects/340892222981407316
 
  LDR_LED< br>
 
