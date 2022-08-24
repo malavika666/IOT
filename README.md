@@ -63,7 +63,6 @@ Sermotor+Slide Potentiometer:
 https://wokwi.com/projects/340885196981142100
 
 Buzzer+PushButton:
-
 https://wokwi.com/projects/340885865271132754
 
  LDR_LED< br>
