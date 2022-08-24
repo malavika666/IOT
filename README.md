@@ -59,6 +59,9 @@ https://wokwi.com/projects/340883919581741650
 Servomotor+Pushbutton:
 https://wokwi.com/projects/340884422706332242
 
+Sermotor+Slide Potentiometer:
+https://wokwi.com/projects/340885196981142100
+
  LDR_LED< br>
 
  int ldr=A0;//Set A0(Analog Input) for LDR.< br>
