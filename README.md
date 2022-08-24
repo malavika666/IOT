@@ -62,6 +62,10 @@ https://wokwi.com/projects/340884422706332242
 Sermotor+Slide Potentiometer:
 https://wokwi.com/projects/340885196981142100
 
+Buzzer+PushButton:
+
+https://wokwi.com/projects/340885865271132754
+
  LDR_LED< br>
 
  int ldr=A0;//Set A0(Analog Input) for LDR.< br>
