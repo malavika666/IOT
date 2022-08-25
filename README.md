@@ -79,6 +79,9 @@ https://wokwi.com/projects/340974342675366483
 LDR:
 https://wokwi.com/projects/340974619627356756
 
+LDR+LED:
+https://wokwi.com/projects/340974941831692883
+
  LDR_LED< br>
 
  int ldr=A0;//Set A0(Analog Input) for LDR.< br>
