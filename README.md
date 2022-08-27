@@ -61,7 +61,7 @@ https://wokwi.com/projects/340883919581741650
 Servomotor+Pushbutton:
 https://wokwi.com/projects/340884422706332242
 
-Sermotor+Slide Potentiometer:
+Servomotor+Slide Potentiometer:
 https://wokwi.com/projects/340885196981142100
 
 Buzzer+PushButton:
@@ -142,4 +142,5 @@ DHT11:
        delay(1000); //Delay 2 sec.<br>
    }<br>
 https://randomnerdtutorials.com/esp8266-nodemcu-hc-sr04-ultrasonic-arduino/<br>
+
 
