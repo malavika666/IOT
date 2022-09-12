@@ -44,6 +44,8 @@ https://wokwi.com/projects/340780293574099539<br>
 IR+LED:<br>
 https://wokwi.com/projects/340780454732890706<br>
 
+Seven segment_counter:https://wokwi.com/projects/342586467176940114
+
 ESP32:
 
 LED
