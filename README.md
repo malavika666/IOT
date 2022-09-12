@@ -51,6 +51,9 @@ Joystick+dot matrix:https://wokwi.com/projects/342587946005693011
 Ultrasonic Sensor+LCD:https://wokwi.com/projects/342589002321232468
 
  Electronic Safe, powered by an Arduino Uno:https://wokwi.com/arduino/libraries/demo/electronic-safe
+ 
+ 
+ LED Bar graph:https://wokwi.com/projects/342593552797139538
 
 ESP32:
 
