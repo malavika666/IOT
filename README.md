@@ -46,6 +46,8 @@ https://wokwi.com/projects/340780454732890706<br>
 
 Seven segment_counter:https://wokwi.com/projects/342586467176940114
 
+Joystick+dot matrix:https://wokwi.com/projects/342587946005693011
+
 ESP32:
 
 LED
