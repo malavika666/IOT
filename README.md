@@ -48,6 +48,8 @@ Seven segment_counter:https://wokwi.com/projects/342586467176940114
 
 Joystick+dot matrix:https://wokwi.com/projects/342587946005693011
 
+Ultrasonic Sensor+LCD:https://wokwi.com/projects/342589002321232468
+
 ESP32:
 
 LED
